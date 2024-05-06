@@ -8,6 +8,6 @@
 We used the Oculus Quest 2 VR Headset and Unity
 
 ## Video Links
-[Project Overview](/Videos/Final%20Project%20Overview.mp4)
+[Project Overview](/Videos/Final%20Project%20Overview.mp4) [YouTube Link](https://youtu.be/PSPk81S536s)
 
-[Code Explanation](/Videos/ExplanationOfCodeAndExperiment.mp4)
+[Code Explanation](/Videos/ExplanationOfCodeAndExperiment.mp4) [YouTube Link](https://youtu.be/Lo9xMdLjTXY)
