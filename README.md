@@ -1,6 +1,6 @@
 # SP24-Evaluating-The-Efficacy-Of-Simulating-Public-Performance-In-Virtual-Reality-On-Real-World-Confidence
 
-## Link to Paper
+## [Research Paper](/Evaluating_the_Efficacy_of_Simulating_Public_Performance_in_Virtual_Reality_on_Real_World_Public_Performance_Confidence.pdf)
 
 ## How To Run The Project
 In order to run the project, you will need Unity version 2021.3.6f1. If you do not have this, the Oculus may not work with the following set up.
@@ -29,9 +29,17 @@ you should be in the proper view.
 We used the Oculus Quest 2 VR Headset and Unity
 
 ## Video Links
-[Project Overview](/Videos/Final%20Project%20Overview.mp4) 
-[YouTube Link](https://youtu.be/PSPk81S536s)
+[Project Overview GitHub](/Videos/Final%20Project%20Overview.mp4) 
+
+[Project Overview YouTube](https://youtu.be/PSPk81S536s)
 
 
-[Code Explanation](/Videos/ExplanationOfCodeAndExperiment.mp4) 
-[YouTube Link](https://youtu.be/Lo9xMdLjTXY)
+[Code Explanation GitHub](/Videos/ExplanationOfCodeAndExperiment.mp4) 
+
+[Code Explanation YouTube](https://youtu.be/Lo9xMdLjTXY)
+
+## Other Links
+
+[Participant List](/Participants.md)
+
+[About](/AboutTheProject.md)
